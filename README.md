@@ -22,3 +22,7 @@
 
 - syntax: ansible -i hosts all -u <user> --private-key=<private-key> -m <module>
 - ansible-playbooks (yaml)
+- Syntax to generate config file: 
+    ansible-config init --disable > ansible.cfg
+- Syntax to play the playbook:
+    ansible-playbook -u ubuntu --private-key=idrsa playbook.yaml
