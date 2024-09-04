@@ -40,3 +40,4 @@ Fruits:
     apple
     mango
     banana
+pineapple
