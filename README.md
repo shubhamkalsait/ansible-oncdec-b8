@@ -34,7 +34,7 @@ apple,
 mango,
 banana
 }
-
+pineapple
 
 Fruits:
     apple
