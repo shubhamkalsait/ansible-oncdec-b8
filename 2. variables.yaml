@@ -9,3 +9,4 @@
         URL: local.cloudblitz.in  # Local Variable
     - debug:
         msg: My URL is, {{ URL }}
+
