@@ -11,4 +11,5 @@
         msg: My URL is, {{ URL }}
 
 # Variable Priorities
-- 
+# 1. cli vars
+# 2. 
