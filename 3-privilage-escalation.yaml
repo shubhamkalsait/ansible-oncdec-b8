@@ -1,10 +1,10 @@
 - name: install package
   hosts: all
   vars:
-    PKG: nginx
+    PKG: apache2
   # become: true
   tasks:
     - package:
         name: "{{PKG}}"
-        state: present
+        state: absent
       # become: true
