@@ -1,5 +1,9 @@
 - name: variable demo
   hosts: all
+  vars:
+    URL: cloudblitz.in
   tasks:
     - debug:
-        msg: Hello World
+        msg: Hello World, {{ URL }}
+    - debug:
+        msg: My URL is, {{ URL }}
