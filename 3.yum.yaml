@@ -1,3 +1,5 @@
 - name: install package
   hosts: all
+  vars:
+    PKG: httpd
   
