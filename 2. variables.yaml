@@ -2,13 +2,13 @@
   hosts: all
   vars:
     URL: cloudblitz.in  # Global Variable
-  vars_files:
-    - ./vars.txt
+  # vars_files:
+  #   - ./vars.txt
   tasks:
     - debug:
         msg: Hello World, {{ URL }}
-      vars:
-        URL: local.cloudblitz.in  # Local Variable
+      # vars:
+      #   URL: local.cloudblitz.in  # Local Variable
     - debug:
         msg: My URL is, {{ URL }}
 
