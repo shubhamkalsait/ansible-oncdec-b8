@@ -4,7 +4,7 @@
     URL: cloudblitz.in  # Global Variable
   # vars_files:
   #   - ./vars.txt
-    vars
+    vars:
   tasks:
     - debug:
         msg: Hello World, {{ URL }}
