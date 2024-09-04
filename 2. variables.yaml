@@ -1,11 +1,11 @@
 - name: variable demo
   hosts: all
   vars:
-    URL: cloudblitz.in  
+    URL: cloudblitz.in  # Global Variable
   tasks:
     - debug:
         msg: Hello World, {{ URL }}
       vars:
-        URL: local.cloudblitz.in
+        URL: local.cloudblitz.in  # Local Variable
     - debug:
         msg: My URL is, {{ URL }}
