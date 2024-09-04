@@ -4,3 +4,4 @@
     PKG: httpd
   tasks:
     - package:
+        name: {{}}
