@@ -28,3 +28,8 @@
     ansible-playbook -u ubuntu --private-key=idrsa playbook.yaml
 
 - yaml - indentation specific 
+
+{
+
+    
+}
