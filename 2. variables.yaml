@@ -2,7 +2,7 @@
   hosts: all
   vars:
     URL: cloudblitz.in  # Global Variable
-  var_file:
+  vars_files:
     path: ./vars.txt
   tasks:
     - debug:
