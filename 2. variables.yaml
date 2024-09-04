@@ -6,6 +6,6 @@
     - debug:
         msg: Hello World, {{ URL }}
         vars:
-          URL: 
+          URL: local.cloudblitz.in
     - debug:
         msg: My URL is, {{ URL }}
