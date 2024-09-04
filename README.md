@@ -30,6 +30,8 @@
 - yaml - indentation specific 
 
 Fruits {
-
+apple, 
+mango,
+banana
 
 }
