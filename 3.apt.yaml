@@ -1,7 +1,7 @@
 - name: install package
   hosts: all
   vars:
-    PKG: httpd
+    PKG: apache2
   tasks:
     - package:
         name: "{{PKG}}"
