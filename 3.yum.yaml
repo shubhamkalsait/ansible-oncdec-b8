@@ -2,4 +2,5 @@
   hosts: all
   vars:
     PKG: httpd
-  
+  tasks:
+    
