@@ -2,8 +2,9 @@
   hosts: all
   vars:
     PKG: apache2
-  become: true
+  # become: true
   tasks:
     - package:
         name: "{{PKG}}"
         state: present
+      # become: true
