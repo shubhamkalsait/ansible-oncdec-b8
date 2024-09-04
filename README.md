@@ -29,15 +29,3 @@
 
 - yaml - indentation specific 
 
-Fruits {
-apple, 
-mango,
-banana
-}
-pineapple
-
-Fruits:
-    apple
-    mango
-    banana
-pineapple
