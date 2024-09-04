@@ -29,3 +29,5 @@
 
 - yaml - indentation specific 
 
+- ansible-playbook -e URL=cli.cloudblitz.in -u ubuntu --private-key=../id_rsa 2.\ variables.
+yaml
