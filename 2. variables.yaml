@@ -1,7 +1,7 @@
 - name: variable demo
   hosts: all
-  # vars:
-  #   URL: cloudblitz.in  # Global Variable
+  vars:
+    URL: cloudblitz.in  # Global Variable
   # vars_files:
   #   - ./vars.txt
     vars
