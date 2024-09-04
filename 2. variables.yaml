@@ -12,4 +12,5 @@
 
 # Variable Priorities
 # 1. cli vars
-# 2. 
+# 2. local vars
+# 3. Global Vars
