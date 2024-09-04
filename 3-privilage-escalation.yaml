@@ -1,7 +1,7 @@
 - name: install package
   hosts: all
   vars:
-    PKG: apache2
+    PKG: nginx
   # become: true
   tasks:
     - package:
