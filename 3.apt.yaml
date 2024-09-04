@@ -3,4 +3,5 @@
   vars:
     PKG: httpd
   tasks:
-    
+    yum:
+    apt:
