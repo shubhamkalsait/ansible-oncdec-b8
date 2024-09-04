@@ -3,5 +3,4 @@
   vars:
     PKG: httpd
   tasks:
-    package:
-      
+    - package:
