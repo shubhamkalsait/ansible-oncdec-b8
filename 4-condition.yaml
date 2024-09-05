@@ -6,4 +6,4 @@
         msg: My OS is {{ansible_distribution}}
     - debug:
         msg: My Ubuntu Server is Awesome
-      when: "{{ansible_distribution}}"  = Ubuntu
+      when: ansible_distribution  = "Ubuntu"
