@@ -16,7 +16,7 @@
         name: "{{item}}"
         state: present
       loop: 
-        - apache2
+        - httpd
         - git
         - wget
         - unzip
