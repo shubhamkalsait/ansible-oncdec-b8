@@ -5,5 +5,9 @@
     - debug:
         msg: I love Apple
       loop:
-        - 
+        - Apple
+        - Pineapple
+        - mango
+        - straberry
+        - orange
 
