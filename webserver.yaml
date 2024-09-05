@@ -1,1 +1,4 @@
-- name: 
+- name: my webserver playbook
+  hosts: all
+  gather_facts: true
+  
