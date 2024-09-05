@@ -4,3 +4,5 @@
   tasks:
     - debug:
         msg: I love Apple
+    - debug:
+        msg: I love Apple
