@@ -1,6 +1,6 @@
 - name: my first playbook
   hosts: all
-  
+  gather_facts: true
   tasks:
     - debug:
         msg: My OS is {{ansible_distribution}}
