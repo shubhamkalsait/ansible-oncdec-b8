@@ -27,4 +27,4 @@
         name: apache2
         state: started
         enabled: true
-        
+      when: ansible_distribution == "Ubuntu"
