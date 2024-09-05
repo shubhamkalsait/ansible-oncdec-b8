@@ -11,4 +11,12 @@
         - git
         - wget
         - unzip
-        
+    
+    - yum:
+        name: "{{item}}"
+        state: present
+      loop: 
+        - apache2
+        - git
+        - wget
+        - unzip
