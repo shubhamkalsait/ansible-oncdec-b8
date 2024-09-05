@@ -1,1 +1,2 @@
-- debu
+- debug:
+    msg: This is Handler
