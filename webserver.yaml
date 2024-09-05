@@ -11,7 +11,7 @@
         - git
         - wget
         - unzip
-      when: ansible
+      when: ansible_distribution == "Ubuntu"
     
     - yum:
         name: "{{item}}"
