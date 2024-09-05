@@ -35,4 +35,5 @@
         enabled: true
       when: ansible_distribution == "RedHat"
     
-    - copy
+    - copy:
+        src: ./
