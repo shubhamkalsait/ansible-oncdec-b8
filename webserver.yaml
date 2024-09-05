@@ -26,4 +26,5 @@
     - systemd_service:
         name: apache2
         state: started
+        enabled: true
         
