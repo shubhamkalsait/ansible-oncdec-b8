@@ -23,4 +23,4 @@
         - unzip
       when: ansible_distribution == "RedHat"
     
-    - 
+    - service / systemctl
