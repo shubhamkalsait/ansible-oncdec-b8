@@ -3,7 +3,7 @@
   gather_facts: true
   tasks:
     - debug:
-        msg: I love Apple
+        msg: I love {{item}}
       loop:
         - Apple
         - Pineapple
