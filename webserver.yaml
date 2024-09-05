@@ -11,7 +11,7 @@
         - git
         - wget
         - unzip
-      
+      when: ansible
     
     - yum:
         name: "{{item}}"
