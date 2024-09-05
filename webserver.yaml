@@ -28,3 +28,9 @@
         state: started
         enabled: true
       when: ansible_distribution == "Ubuntu"
+
+    - systemd_service:
+        name: httpd
+        state: started
+        enabled: true
+      when: ansible_distribution == "Ubuntu"
