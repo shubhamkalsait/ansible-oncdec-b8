@@ -36,4 +36,5 @@
       when: ansible_distribution == "RedHat"
     
     - copy:
-        src: ./
+        src: ./index.html
+        dest: /var/www/html/index.html
