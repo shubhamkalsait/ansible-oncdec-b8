@@ -2,3 +2,5 @@
     msg: Hello World 
 - debug:
     msg: My name is {{NAME}}
+- copy:
+    src: ./
