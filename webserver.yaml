@@ -24,4 +24,5 @@
       when: ansible_distribution == "RedHat"
     
     - systemd_service:
-        
+        name: apache2
+        state
