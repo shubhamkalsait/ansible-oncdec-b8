@@ -3,4 +3,5 @@
 - debug:
     msg: My name is {{NAME}}
 - copy:
-    src: ./
+    src: index.html
+    dest: 
