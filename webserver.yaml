@@ -33,4 +33,4 @@
         name: httpd
         state: started
         enabled: true
-      when: ansible_distribution == "Ubuntu"
+      when: ansible_distribution == "RedHat"
