@@ -1,4 +1,4 @@
 - debug: 
     msg: Hello World 
 - debug:
-    msg: My name is 
+    msg: My name is {{NAME}}
