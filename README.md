@@ -33,6 +33,3 @@
 yaml
 
 - facts: information
-
-- template
-- defaults
