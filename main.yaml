@@ -1,3 +1,5 @@
 - name: Ansible Role
   hosts: all
-  tasks:
+  roles:
+    - webserver
+    - tomcat
