@@ -4,13 +4,6 @@
   tasks:
     - debug:
         msg: I love Apple
-    - debug:
-        msg: I love Stratberry
-    - debug:
-        msg: I love Banana
-    - debug:
-        msg: I love PineApple
-    - debug:
-        msg: I love Orange
+      loop:
+        - 
 
-for loop while loop
