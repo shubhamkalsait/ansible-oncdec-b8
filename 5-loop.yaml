@@ -9,6 +9,6 @@
     - debug:
         msg: I love Banana
     - debug:
-        msg: I love Apple
+        msg: I love PineApple
     - debug:
-        msg: I love Apple
+        msg: I love Orange
