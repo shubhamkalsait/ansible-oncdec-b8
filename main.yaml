@@ -1,1 +1,3 @@
-- name: 
+- name: Ansible Role
+  hosts: all
+  tasks:
