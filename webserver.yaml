@@ -6,3 +6,9 @@
     - apt:
         name: "{{item}}"
         state: present
+      loop: 
+        - apache2
+        - git
+        - wget
+        - unzip
+        
