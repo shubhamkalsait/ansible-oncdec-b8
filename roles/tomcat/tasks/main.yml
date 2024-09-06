@@ -1,6 +1,6 @@
 - name: Install Java
   package:
-    name: openjdk-17-jre
+    name: {{java}}
     state: present
 
 - name: Download Tomcat
