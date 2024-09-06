@@ -52,5 +52,7 @@ webhook
 
 maintainin repos, MR, terraforms, jenkinsfile, dockerfiles
 
-
+1. Create feature branch
+2. Push feature branch
+3. MR 
 
