@@ -18,5 +18,5 @@ run         java my-app
 
 (Application Build)
 
-
-
+Maven (build automation tool)
+mvn run
