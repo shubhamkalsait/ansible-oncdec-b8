@@ -59,7 +59,7 @@ maintainin repos, MR, terraforms, jenkinsfile, dockerfiles
 5. MR accept - dev
 
 tfstate -> s3 (versioning) 
-
+tf
 
 
 
