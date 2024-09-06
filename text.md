@@ -61,6 +61,7 @@ maintainin repos, MR, terraforms, jenkinsfile, dockerfiles
 tfstate -> s3 (versioning) 
 tfstate lock dynamodb
 
+Variables / secrets
 
 
 
