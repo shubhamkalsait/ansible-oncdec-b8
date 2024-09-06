@@ -28,4 +28,8 @@ pom.xml
 
 mvn package
 
-stage()
+stage('build'){
+    steps {
+        sh 'mvn clean package' 
+    }
+}
