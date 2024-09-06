@@ -22,3 +22,6 @@ Maven (build automation tool)
 mvn run
 
 Directory
+
+gradlew
+pom.xml
