@@ -21,7 +21,7 @@
         - git
         - wget
         - unzip
-      when: ansible_distribution == "RedHat"
+      when: ansible_distribution == "Amazon"
     
     - systemd_service:
         name: apache2
