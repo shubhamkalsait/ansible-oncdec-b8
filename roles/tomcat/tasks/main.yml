@@ -14,4 +14,4 @@
     dest: /opt
 
 - name: Start catalina.sh
-  
+  command
