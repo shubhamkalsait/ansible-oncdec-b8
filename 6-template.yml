@@ -1,7 +1,10 @@
 - name: my first playbook
   hosts: all
+  become: true
   tasks:
     - debug:
         msg: Hello World
-
-- name
+    
+    - copy:
+        src: index.html
+        dest: /opt
