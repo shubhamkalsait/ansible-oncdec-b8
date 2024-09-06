@@ -5,12 +5,12 @@
 
 - name: Download Tomcat
   get_url:
-    url: "{{TOMCAT_URL}}"
+    url:
     dest: /opt
 
 - name: Extract Tomcat
   unarchive:
-    src: /opt/{{TOMCAT_ARCHIVED}}
+    src:  "{{TOMCAT_URL}}"
     dest: /opt
     remote_src: yes
 
