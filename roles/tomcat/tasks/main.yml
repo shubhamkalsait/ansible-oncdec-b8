@@ -10,4 +10,8 @@
 
 - name: Extract Tomcat
   unarchive:
-    src: /opt/
+    src: /opt/apache-tomcat-9.0.93.tar.gz
+    dest: /opt
+
+- name: Start catalina.sh
+  
