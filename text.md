@@ -25,3 +25,5 @@ Directory
 
 gradlew
 pom.xml
+
+mvn package
