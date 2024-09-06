@@ -12,6 +12,7 @@
   unarchive:
     src: /opt/apache-tomcat-9.0.93.tar.gz
     dest: /opt
+    remote_src: yes
 
 - name: Start catalina.sh
   shell: /opt/apache-tomcat-9.0.93/bin/catalina.sh run
