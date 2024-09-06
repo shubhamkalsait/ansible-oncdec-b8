@@ -74,6 +74,7 @@ hpa.yaml ->
 deployment.yaml -> 
 
 service.yaml -> 
-ingress.yaml
+
+ingress.yaml -> 
 
 
