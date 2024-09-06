@@ -70,8 +70,10 @@ K8s, Namespace
 
 
 hpa.yaml -> 
-deployment.yaml
-service.yaml
+
+deployment.yaml -> 
+
+service.yaml -> 
 ingress.yaml
 
 
