@@ -16,7 +16,7 @@ test        java test
 run         java my-app
 
 
-(Application Build )
+(Application Build)
 
 
 
