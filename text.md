@@ -27,3 +27,5 @@ gradlew
 pom.xml
 
 mvn package
+
+stage()
