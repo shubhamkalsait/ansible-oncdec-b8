@@ -10,7 +10,7 @@
 
 - name: Extract Tomcat
   unarchive:
-    src: /opt/apache-tomcat-9.0.93.tar.gz
+    src: /opt/
     dest: /opt
     remote_src: yes
 
