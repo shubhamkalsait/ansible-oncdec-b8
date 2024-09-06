@@ -1,4 +1,5 @@
 maven: Developer
 
 main.java
-stu
+studenapp.java
+image.java
