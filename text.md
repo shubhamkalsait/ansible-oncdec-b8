@@ -12,4 +12,6 @@ image.java
 syntax
 compile
 integrate
+test
+run
 
