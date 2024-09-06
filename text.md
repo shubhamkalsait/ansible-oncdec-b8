@@ -59,8 +59,5 @@ maintainin repos, MR, terraforms, jenkinsfile, dockerfiles
 5. MR accept - dev
 
 
-dev
-DevOps engineer
-tes
 
 
