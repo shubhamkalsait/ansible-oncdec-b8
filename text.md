@@ -63,6 +63,7 @@ tfstate lock dynamodb
 
 Variables / secrets
 
+k8s, 
 
 
 
