@@ -7,7 +7,7 @@
     
     - copy:
         src: index.html
-        dest: /opt
+        dest: /opt/copy.html
 
     - template:
         src: 
