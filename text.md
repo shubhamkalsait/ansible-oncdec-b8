@@ -56,6 +56,6 @@ maintainin repos, MR, terraforms, jenkinsfile, dockerfiles
 2. Push feature branch dev
 3. MR feture - dev dev
 4. Code Review senior dev
-5. MR accept
+5. MR accept - dev
 
 
