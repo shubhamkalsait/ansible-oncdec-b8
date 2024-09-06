@@ -10,7 +10,7 @@
 
 - name: Extract Tomcat
   unarchive:
-    src:  "{{TOMCAT_URL}}"
+    src: /opt/{{TOMCAT_ARCHIVED}}
     dest: /opt
     remote_src: yes
 
