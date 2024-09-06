@@ -33,3 +33,6 @@
 yaml
 
 - facts: information
+
+- get_url
+- template
