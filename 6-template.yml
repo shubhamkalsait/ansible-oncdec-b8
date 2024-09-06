@@ -2,7 +2,7 @@
   hosts: all
   become: true
   vars:
-    - 
+    MY_ORG: Cloudblitz
   tasks:
     - debug:
         msg: Hello World
