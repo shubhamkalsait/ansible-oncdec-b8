@@ -39,7 +39,9 @@ stage('build'){
 2. tech stack 7 frontend Angular 18 backends springboot postgressql
 routef3 - cloudfront - s3 - (subdomains) - eks - rds
 3. Deployment strategy
+feature -
 dev -
 test - 
 uat - 
+prod - 
 
