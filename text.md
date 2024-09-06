@@ -40,5 +40,5 @@ stage('build'){
 routef3 - cloudfront - s3 - (subdomains) - eks - rds
 3. Deployment strategy
 dev -
-
+test - 
 
