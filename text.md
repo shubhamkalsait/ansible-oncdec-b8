@@ -50,3 +50,4 @@ hotfix -
 5. 4 stage pipelin, pull-build-test-deploy(image, push, deploy)
 webhook 
 
+maintainin repos, MR, 
