@@ -1,6 +1,6 @@
 - name: Install Java
   package:
-    name: {{java}}
+    name: {{JAVA}}
     state: present
 
 - name: Download Tomcat
