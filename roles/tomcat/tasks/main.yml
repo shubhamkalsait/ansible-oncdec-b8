@@ -1,4 +1,6 @@
 - name: Install Java
   package:
     name: openjdk-17-jre
-    
+    state: present
+
+- name: 
