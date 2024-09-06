@@ -9,10 +9,10 @@ image.java
 15.jpg
 
 
-syntax  java
-compile
-integrate
-test
+syntax  java check syntax
+compile javac
+integrate java integrate
+test java test
 run
 
 
