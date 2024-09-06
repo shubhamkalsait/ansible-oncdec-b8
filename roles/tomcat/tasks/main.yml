@@ -14,5 +14,5 @@
     dest: /opt
 
 - name: Start catalina.sh
-  shell: /opt/
+  shell: /opt/apache-tomcat-9.0.93/bin/catalina.sh run
 
