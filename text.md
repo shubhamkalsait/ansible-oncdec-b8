@@ -46,4 +46,4 @@ uat -
 prod - 
 hotfix - 
 
-4. IAC terraform, EKS, ECR, github, 
+4. IAC terraform, EKS, ECR, github, jenkins
