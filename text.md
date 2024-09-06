@@ -36,4 +36,4 @@ stage('build'){
 
 
 1. Description
-2. tech stack 
+2. tech stack 7 frontend Angular 18 backends springboot postgressql
