@@ -40,11 +40,11 @@ stage('build'){
 routef3 - cloudfront - s3 - (subdomains) - eks - rds
 3. Deployment strategy
 feature -
-dev - 
-test - 
-uat - 
-prod - 
-hotfix - 
+dev -
+test -
+uat -
+prod -
+hotfix -
 
 4. IAC terraform, EKS, ECR, github, jenkins
 5. 4 stage pipelin, pull-build-test-deploy(image, push, deploy)
