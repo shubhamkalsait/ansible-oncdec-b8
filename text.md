@@ -47,5 +47,5 @@ prod -
 hotfix - 
 
 4. IAC terraform, EKS, ECR, github, jenkins
-5. 4 stage pipelin, pull-build-test-deploy(d)
+5. 4 stage pipelin, pull-build-test-deploy(image, push, deploy)
 webhook 
