@@ -58,7 +58,7 @@ maintainin repos, MR, terraforms, jenkinsfile, dockerfiles
 4. Code Review senior dev
 5. MR accept - dev
 
-tfstate -> s3 (versioning)
+tfstate -> s3 (versioning) -> 
 
 
 
