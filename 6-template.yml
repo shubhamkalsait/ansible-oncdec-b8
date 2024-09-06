@@ -10,4 +10,5 @@
         dest: /opt/copy.html
 
     - template:
-        src: 
+        src: index.html
+        dest: /opt/template.html
