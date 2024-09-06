@@ -1,6 +1,8 @@
 - name: my first playbook
   hosts: all
   become: true
+  vars:
+    - 
   tasks:
     - debug:
         msg: Hello World
