@@ -15,5 +15,5 @@
     remote_src: yes
 
 - name: Start catalina.sh
-  shell: /opt/apache-tomcat-9.0.93/bin/catalina.sh run
+  shell: /opt/{{TOMCAT_DIR}}/bin/catalina.sh run
 
