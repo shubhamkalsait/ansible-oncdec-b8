@@ -69,7 +69,9 @@ k8s, Jenkins, Terraform, Github, AWS secrets
 K8s, Namespace
 
 
-hpa.yaml
-
+hpa.yaml -> 
+deployment.yaml
+service.yaml
+ingress.yaml
 
 
