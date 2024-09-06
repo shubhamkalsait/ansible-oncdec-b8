@@ -8,3 +8,6 @@
     - copy:
         src: index.html
         dest: /opt
+
+    - template:
+        src: 
