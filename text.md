@@ -37,5 +37,5 @@ stage('build'){
 
 1. Description
 2. tech stack 7 frontend Angular 18 backends springboot postgressql
-routef3 - cloudfront - s3 - eks - rds
+routef3 - cloudfront - s3 - (eks - rds
 
