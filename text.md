@@ -70,11 +70,9 @@ K8s, Namespace
 
 
 hpa.yaml -> 
-
 deployment.yaml -> 
-
 service.yaml -> 
-
 ingress.yaml -> 
 
+18 backend * 4
 
