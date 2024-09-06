@@ -54,8 +54,8 @@ maintainin repos, MR, terraforms, jenkinsfile, dockerfiles
 
 1. Create feature branch dev
 2. Push feature branch dev
-3. MR feture - dev 
-4. Code Review
+3. MR feture - dev dev
+4. Code Review senior dev
 5. MR accept
 
 
