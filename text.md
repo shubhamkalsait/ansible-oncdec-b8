@@ -20,3 +20,5 @@ run         java my-app
 
 Maven (build automation tool)
 mvn run
+
+Directory
