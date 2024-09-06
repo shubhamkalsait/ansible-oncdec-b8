@@ -12,7 +12,7 @@ image.java
 syntax      java check syntax
 compile     javac
 integrate   java integrate
-test java test
-run java my-app
+test        java test
+run         java my-app
 
 
