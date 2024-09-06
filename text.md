@@ -63,7 +63,7 @@ tfstate lock dynamodb
 
 Variables / secrets
 
-k8s, Jenkins, Terraform, 
+k8s, Jenkins, Terraform, Github, 
 
 
 
