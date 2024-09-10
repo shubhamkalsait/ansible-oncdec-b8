@@ -93,7 +93,6 @@ Resume sent
 
 Experience (ECTC, CCTC, NoticePeriod)
 
-
 Screening
 ---------
 1. Introduction
