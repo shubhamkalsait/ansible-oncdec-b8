@@ -85,4 +85,5 @@ ingress.yaml ->
 
 
 
-Srimant Sir -> Lead -> Global@placement -> Approval -> Resume Request (Mail: Atul, Mayur, Pasad, )
+Srimant Sir -> Lead -> Global@placement -> Approval -> Resume Request (Mail: Atul, Mayur, Pasad, Shubham)
+
