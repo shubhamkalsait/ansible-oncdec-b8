@@ -93,4 +93,7 @@ Shubham Sir -> Vacancies (JD) -> Resumes share (hireme@cloudblitz.in)
 Screening
 ---------
 1. Introduction
-2. 
+2. Location
+3. CTC
+4. E CTC
+5. Prefered 
