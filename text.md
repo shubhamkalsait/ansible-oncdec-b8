@@ -98,4 +98,4 @@ Screening
 4. E CTC
 5. Prefered Location
 6. Notice Period
-7. 
+7. SkillSet
