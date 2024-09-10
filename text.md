@@ -90,7 +90,7 @@ Srimant Sir -> Lead -> Global@placement -> Approval -> Resume Request (Mail: Atu
 Shubham Sir -> Vacancies (JD) -> Resumes share (hireme@cloudblitz.in)
 -> Check and Shortlist ->  Call (screening) -> Resume Select 
 
-
+Experience (ECTC, CTC, )
 
 Screening
 ---------
