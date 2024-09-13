@@ -41,6 +41,7 @@ Properties: Serverless hosting, Server Access logging, Versioning, Transfer Acce
 
 How to create?
 
+Server 
 Bucket,
 Upload all the 
 Public access enable
@@ -49,8 +50,3 @@ Static website hosting enable
 
 URL
 
-
-
-Static vs dynamic
-Database X vs Database O
-Content vs Logic of app (Code run) Server+Env
