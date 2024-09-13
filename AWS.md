@@ -10,4 +10,7 @@ Public Cloud
 Hybrid Cloud
 Community Cloud
 
-AWS, GCP, Azure, Alibaba, IBM, 
+AWS, GCP, Azure, Alibaba, IBM
+
+1. AWS well matured
+2. 400+ Services
