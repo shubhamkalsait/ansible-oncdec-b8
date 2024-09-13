@@ -42,5 +42,7 @@ Properties: Serverless hosting, Server Access logging, Versioning, Transfer Acce
 How to create?
 
 
+html, css, js (AWS)
+
 
 
