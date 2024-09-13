@@ -6,4 +6,4 @@ PAAS - Platform as a service
 SAAS - Software as service
 
 Private Cloud 
-Public Cloud
+Public Cloud 
