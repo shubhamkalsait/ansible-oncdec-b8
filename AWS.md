@@ -41,12 +41,11 @@ Properties: Serverless hosting, Server Access logging, Versioning, Transfer Acce
 
 How to create?
 
-Server 
+Serverless Hosting:
 Bucket,
 Upload all the 
 Public access enable
 make Objects public
 Static website hosting enable
-
-URL
+Get URL
 
