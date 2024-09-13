@@ -58,5 +58,5 @@ Lifecycle Rule | Storage classes | How to optimise AWS cost
 
 classes (advantages, Costing)
 Frequently Access - Standard, Reduced redundancy
-In Frequent Access - 
+In Frequent Access - Standard-IA, Onezone IA
 Archive 
