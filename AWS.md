@@ -35,5 +35,5 @@ Programatic Access
 
 2) S3 - Simple Storage Service
 Bucket
-Object Storage
+Object Storage 
 
