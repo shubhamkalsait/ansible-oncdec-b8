@@ -55,3 +55,5 @@ Identity based policy - Users, roles, groups
 Resource based policy - Bucket Policy
 
 Lifecycle Rule | Storage classes | How to optimise AWS cost
+
+classes ()
