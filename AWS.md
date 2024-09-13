@@ -53,4 +53,4 @@ URL
 
 Static vs dynamic
 Database X vs Database O
-Content vs Logic of app
+Content vs Logic of app (Code run)
