@@ -49,4 +49,4 @@ make Objects public
 Static website hosting enable
 Get URL
 
-How 
+How to provide access of bucket from one account to another
