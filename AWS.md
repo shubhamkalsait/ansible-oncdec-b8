@@ -34,7 +34,7 @@ Console access
 Programatic Access 
 
 2) S3 - Simple Storage Service (global, storage, transfer)
-Bucket ()
+Bucket (Region) 
 Object Storage 
 Features: Durability, Scalability, Availability 
 Properties: Serverless hosting, Server Access logging, Versioning, Transfer Accelaration, Requester Pays
