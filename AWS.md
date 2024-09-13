@@ -61,4 +61,4 @@ Frequently Access - Standard, Reduced redundancy
 In Frequent Access - Standard-IA, Onezone IA
 Archive - Flexible, Glacier, Deep Glacier
 
-Upload - Standard - Standard IA - Expire
+Upload - Standard - Standard IA - Glacier - Expire
