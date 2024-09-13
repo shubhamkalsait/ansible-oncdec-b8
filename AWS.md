@@ -42,3 +42,4 @@ Properties: Serverless hosting, Server Access logging, Versioning, Transfer Acce
 
 Region vs AZ
 
+
