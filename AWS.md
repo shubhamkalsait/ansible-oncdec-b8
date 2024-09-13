@@ -21,7 +21,7 @@ AWS, GCP, Azure, Alibaba, IBM
 AWS - Account 
 
 Services - Resources
-1) IAM - User, Roles, Policies, Group
+1) IAM - User, Roles, Policies, Group (global, free)
 
 Service based question
 What why how(Resources)
@@ -33,7 +33,7 @@ User:
 Console access
 Programatic Access 
 
-2) S3 - Simple Storage Service
+2) S3 - Simple Storage Service (global)
 Bucket
 Object Storage 
 Features: Durability, Scalability, Availability 
