@@ -58,3 +58,5 @@ Lifecycle Rule | Storage classes | How to optimise AWS cost
 
 classes (advantages, Costing)
 Frequesntly Access
+In Frequent Access
+Archive 
