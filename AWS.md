@@ -51,4 +51,5 @@ Get URL
 
 How to provide access of bucket from one account to another? H.W.
 
-Identi
+Identity based policy - 
+Resource based policy
