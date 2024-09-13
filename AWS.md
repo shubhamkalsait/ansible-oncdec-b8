@@ -5,3 +5,5 @@ IAAS - Infrastructure as a service
 PAAS - Platform as a service
 SAAS - Software as service
 
+Private Cloud 
+Public Cloud
