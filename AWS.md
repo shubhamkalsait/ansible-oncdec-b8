@@ -43,7 +43,7 @@ How to create?
 
 Bucket,
 Upload all the 
-
+Public access enable
 
 
 
