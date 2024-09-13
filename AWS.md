@@ -1,6 +1,6 @@
 # AWS Revision Sessions
 
 Cloud Computing - Someone else computer that we use through internet
-IAAS - 
+IAAS - Infrastructure 
 PAAS
 SAAS
