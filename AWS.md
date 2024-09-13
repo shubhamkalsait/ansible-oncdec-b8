@@ -10,3 +10,4 @@ Public Cloud
 Hybrid Cloud
 Community Cloud
 
+AWS, GCP, Azure, 
