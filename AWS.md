@@ -40,9 +40,3 @@ Features: Durability, Scalability, Availability
 Properties: Serverless hosting, Server Access logging, Versioning, Transfer Accelaration, Requester Pays
 
 
-Region vs AZ
-
-Mumbai vs datacenters
-Hyderabad
-Ohio
-
