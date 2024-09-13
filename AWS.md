@@ -52,4 +52,4 @@ URL
 
 
 Static vs dynamic
-DatabaseX vs Database
+Database X vs Database O
