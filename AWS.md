@@ -26,4 +26,4 @@ IAM - User, Roles, Policies, Group
 Service based question
 What why how(Resources)
 Resource based questions
-What why
+What why how(Steps)
