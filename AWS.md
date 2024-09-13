@@ -30,3 +30,5 @@ Resource based questions
 What why how(Steps to create)
 
 Role 
+
+User (Policy Attach )
