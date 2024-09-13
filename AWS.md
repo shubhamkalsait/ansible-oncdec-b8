@@ -33,5 +33,6 @@ User:
 Console access
 Programatic Access 
 
-S3 - Simple Storage Service
+2) S3 - Simple Storage Service
+Bucket
 
