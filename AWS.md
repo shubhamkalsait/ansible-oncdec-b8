@@ -16,4 +16,6 @@ AWS, GCP, Azure, Alibaba, IBM
 2. 400+ Services
 3. EC2, light sail
 4. 40% AWS
+----------------------
 
+AWS - Account 
