@@ -30,3 +30,4 @@ Resource based questions
 What why how(Steps to create)
 
 service 
+attach policy
