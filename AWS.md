@@ -8,3 +8,4 @@ SAAS - Software as service
 Private Cloud 
 Public Cloud 
 Hybrid Cloud
+Community Cloud
