@@ -10,4 +10,4 @@ Public Cloud
 Hybrid Cloud
 Community Cloud
 
-AWS, GCP, Azure, Alibaba, 
+AWS, GCP, Azure, Alibaba, IBM, 
