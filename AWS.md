@@ -33,7 +33,7 @@ User:
 Console access
 Programatic Access 
 
-2) S3 - Simple Storage Service (global)
+2) S3 - Simple Storage Service (global, storage, transfer)
 Bucket
 Object Storage 
 Features: Durability, Scalability, Availability 
