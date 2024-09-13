@@ -19,3 +19,5 @@ AWS, GCP, Azure, Alibaba, IBM
 ----------------------
 
 AWS - Account 
+
+Services - Resources
