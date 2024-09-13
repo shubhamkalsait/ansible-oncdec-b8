@@ -21,5 +21,7 @@ AWS, GCP, Azure, Alibaba, IBM
 AWS - Account 
 
 Services - Resources
-IAM - User, Roles, Policies, Groups
-What why how(steps)
+IAM - User, Roles, Policies, Group
+
+
+What why how
