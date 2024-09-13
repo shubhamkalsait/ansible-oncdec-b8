@@ -37,6 +37,6 @@ Programatic Access
 Bucket
 Object Storage 
 Features: Durability, Scalability, Availability 
-Properties: Serverless hosting,  Access logging
+Properties: Serverless hosting, Server Access logging, Versioning 
 
 
