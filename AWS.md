@@ -1,3 +1,3 @@
 # AWS Revision Sessions
 
-Cloud Computing - 
+Cloud Computing - Someone else computer 
