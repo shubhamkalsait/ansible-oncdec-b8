@@ -14,4 +14,4 @@ AWS, GCP, Azure, Alibaba, IBM
 
 1. AWS well matured
 2. 400+ Services
-3. EC2, 
+3. EC2, light sail
