@@ -51,3 +51,4 @@ URL
 
 
 
+Static vs dynamic
