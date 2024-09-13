@@ -56,4 +56,4 @@ Resource based policy - Bucket Policy
 
 Lifecycle Rule | Storage classes | How to optimise AWS cost
 
-classes ()
+classes (advantages, Costing)
