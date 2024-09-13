@@ -53,3 +53,4 @@ URL
 
 Static vs dynamic
 Database X vs Database O
+Content vs 
