@@ -44,7 +44,8 @@ How to create?
 Bucket,
 Upload all the 
 Public access enable
-Objects public
+make Objects public
+Static website hosting enable
 
 
 
