@@ -9,3 +9,4 @@ Private Cloud
 Public Cloud 
 Hybrid Cloud
 Community Cloud
+
